@@ -1,0 +1,9 @@
+streamlit
+Pillow
+torch
+torchvision
+pandas
+numpy
+matplotlib
+plotly
+spacy
